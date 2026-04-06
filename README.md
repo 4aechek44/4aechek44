@@ -38,7 +38,7 @@ const dev = {
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/@chae4ek__44-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chae4ek_44)
+
 &nbsp;
 ![](https://komarev.com/ghpvc/?username=4aechek44&style=for-the-badge&color=333333&label=views)
 
